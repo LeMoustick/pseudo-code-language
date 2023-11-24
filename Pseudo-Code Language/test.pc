@@ -1,0 +1,11 @@
+Fonction test(n)
+	var resultat = 0
+
+	Pour i = 0 allant a n faire
+		var resultat = resultat + i
+	fin
+
+	Retourner resultat
+fin
+
+Afficher(test(4))
